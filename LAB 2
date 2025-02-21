@@ -98,10 +98,75 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cJRh2HjrgpSgMRb38gnU" name="EJERCICIO 2">
-    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-1" target="uTp-K6rYGQskMV2V-uuo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-3" target="uTp-K6rYGQskMV2V-uuo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-3" value="&#xa;&quot;Ingrese un número:&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-5" target="uTp-K6rYGQskMV2V-uuo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-7" target="uTp-K6rYGQskMV2V-uuo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-10" value="&quot;si&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTp-K6rYGQskMV2V-uuo-9">
+          <mxGeometry x="0.2062" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="161" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-15" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTp-K6rYGQskMV2V-uuo-14">
+          <mxGeometry x="-0.0133" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-5" value="&#xa;&quot;Leer N&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-7" value="&quot;N MOD 2 == 0?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-13" target="uTp-K6rYGQskMV2V-uuo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-13" value="&quot;El número es par&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTp-K6rYGQskMV2V-uuo-16" target="uTp-K6rYGQskMV2V-uuo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-16" value="&quot;El número es impar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-17" value="fin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uTp-K6rYGQskMV2V-uuo-19" value="fin&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
