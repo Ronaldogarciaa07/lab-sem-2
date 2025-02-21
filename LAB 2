@@ -482,6 +482,85 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-1" target="cpfqLoZ9HFygw1oGQOxs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-1" value="INICIO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-2" target="cpfqLoZ9HFygw1oGQOxs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-2" value="&#xa;&quot;Ingrese el primer número (A):&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-4" target="cpfqLoZ9HFygw1oGQOxs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-4" value="&#xa;&quot;Leer A&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-6" target="cpfqLoZ9HFygw1oGQOxs-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-6" value="&#xa;&quot;Ingrese el segundo número (B):&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-9" target="cpfqLoZ9HFygw1oGQOxs-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="565" />
+              <mxPoint x="241" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-9" value="&#xa;&quot;Leer B&quot;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-11" target="cpfqLoZ9HFygw1oGQOxs-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-14" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpfqLoZ9HFygw1oGQOxs-12">
+          <mxGeometry x="-0.3664" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-11" target="cpfqLoZ9HFygw1oGQOxs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-17" value="NO&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cpfqLoZ9HFygw1oGQOxs-16">
+          <mxGeometry x="0.0857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-11" value="&quot;A MOD B == 0?&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-13" target="cpfqLoZ9HFygw1oGQOxs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-13" value="&quot;A es múltiplo de B&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.388;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cpfqLoZ9HFygw1oGQOxs-15" target="cpfqLoZ9HFygw1oGQOxs-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-15" value="&quot;A NO es múltiplo de B&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-19" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cpfqLoZ9HFygw1oGQOxs-21" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
